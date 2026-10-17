@@ -30,8 +30,11 @@ To address the name thing, I prefer to go by Abby.
 - **Languages:** C · Python
 - **Systems:** Linux (Debian, Arch, Parrot OS, Kali), networking, firewalling,
   and the security discipline around them
+
+<!-- TODO maybe add later?
 - **Leveling up right now:** networking/security depth (segmentation, threat
   modeling, tested recovery), C++, Rust, RF and firmware CI/CD
+-->
 
 ## Featured
 
