@@ -38,7 +38,7 @@ To address the name thing, I prefer to go by Abby.
 
 ## Featured
 
-- 🔧 **[homeLab](https://github.com/AbbyStrebel/homeLab)** — My home network
+- **[homeLab](https://github.com/AbbyStrebel/homeLab)** — My home network
 
 <!-- TODO - Let's Freshen up the homelab repo before adding this nice blurb
 - 🔧 **[homeLab](https://github.com/AbbyStrebel/homeLab)** — my home network run
